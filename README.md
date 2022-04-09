@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidvicunap
 - 👀 I’m interested in ... Software Devloping 
-- 🌱 I’m currently learning ... Python and HTML, I'm a freshamn in collage and just started learning how to code in January 2022.
+- 🌱 I’m currently learning ... Intermediate Python, Java, and R. I'm a freshamn in college and I just started learning how to code in January 2022.
 - 💞️ I’m looking to collaborate on ... Anything where I can learn and grow 
 - 📫 How to reach me ... email: davidvicuna1108@gmail.com
 - Insta: davidvicunap 
