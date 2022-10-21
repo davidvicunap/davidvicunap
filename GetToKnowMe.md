@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @davidvicunap
+- 👀 I’m interested in ... Tech, Business, Sports, and Music.
+- 🌱 I’m currently learning ... Swift, Management, Information Systems. 
+- 💞️ I’m looking to collaborate on ... Any iOS developing project. 
+- 📫 Email me at ... davidvicuna1108@gmail.com 
